@@ -1,0 +1,17 @@
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\bin\Debug\net10.0\Parcial_3_HPA3.exe
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\bin\Debug\net10.0\Parcial_3_HPA3.deps.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\bin\Debug\net10.0\Parcial_3_HPA3.runtimeconfig.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\bin\Debug\net10.0\Parcial_3_HPA3.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\bin\Debug\net10.0\Parcial_3_HPA3.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_3_HPA3.csproj.AssemblyReference.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_3_HPA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_3_HPA3.AssemblyInfoInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_3_HPA3.AssemblyInfo.cs
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_3_HPA3.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_.9A61F6BD.Up2Date
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_3_HPA3.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\refint\Parcial_3_HPA3.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_3_HPA3.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\Parcial_3_HPA3.genruntimeconfig.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Parcial_3_HPA3\obj\Debug\net10.0\ref\Parcial_3_HPA3.dll
